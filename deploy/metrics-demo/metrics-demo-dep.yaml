@@ -28,6 +28,6 @@ spec:
         - containerPort: 3000
         resources:
           requests:
-            memory: "32Mi"
+            memory: "34Mi"
             cpu: "10m"
 
