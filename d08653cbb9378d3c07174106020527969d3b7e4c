@@ -1,0 +1,1 @@
+{"jobID":"7669e246-03fb-48ab-0512-ff0442e7ab8a","spec":{"type":"policy","cause":{"Message":"","User":"Luke Baker \u003cakabaker@gmail.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
